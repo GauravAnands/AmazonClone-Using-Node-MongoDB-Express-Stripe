@@ -1,0 +1,14 @@
+{
+  "name": "amazon-clone",
+  "version": "1.0.0",
+  "description": "amazon clone made by gaurav anand",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaurav Anand",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
